@@ -1,0 +1,2 @@
+# Multi-Classification
+Multi-classification case-study to predict the health-insurance risk buckets (1 to 5) for clients for the year 2009, based on predictor variables like previous year risk bucket, reimbursements made, medical tests conducted for heart, kidney, lever etc. Various models were built using cross-validation, xgboost. The best model was selected which minimized losses due to incorrect prediction.
